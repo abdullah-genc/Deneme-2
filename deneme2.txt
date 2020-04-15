@@ -12,6 +12,7 @@ Son dakika aklıma gelen
 yeni yazı eklemek.Acaba ne değişecek
 İki farklı durumu değerlendirmek için
 
+Deneme issue
 Renkleri de ekleyelim
 Kırmızı
 Sarı
