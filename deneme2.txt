@@ -35,3 +35,4 @@ Bu satır sonrası haberler
 
 
 Haberler bitti
+Reklam satırı başladı
