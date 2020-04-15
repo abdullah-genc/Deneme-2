@@ -9,6 +9,7 @@ derçekten dene
 
 Son dakika aklıma gelen
 yeni yazı eklemek.Acaba ne değişecek
+İki farklı durumu değerlendirmek için
 
 Renkleri de ekleyelim
 Kırmızı
@@ -17,3 +18,4 @@ Sarı
 Sucuk 
 Salam
 Köfte
+son satıra alışveriş listesini ekliyorum
